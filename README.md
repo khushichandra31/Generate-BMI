@@ -1,6 +1,6 @@
-# bmi_check
+# BMI Generator
 
-A new Flutter project.
+Flutter project.
 
 ## Getting Started
 
